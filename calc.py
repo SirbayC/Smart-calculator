@@ -123,7 +123,7 @@ while True:
             print('Bye!')
             break
         elif "".join(calc.equation) == '/help':
-            print('The program calculates blah blah of numbers')
+            print('The program calculates the inputted (series of) basic arithmetic operations')
             continue
         else:
             print('Unknown command')
